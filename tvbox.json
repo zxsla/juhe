@@ -1,0 +1,22 @@
+{
+  "sites": [
+    {
+      "key": "guanfangjuhe",
+      "name": "官方聚合",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/zxsla/juhe/main/guanfangjuhe.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jumi",
+      "name": "剧迷",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/zxsla/juhe/main/jumi.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
